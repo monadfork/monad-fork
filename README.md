@@ -8,10 +8,10 @@
 <br>
 10,000 TPS. Sub-second Finality. 0% VC Allocation.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-success.svg)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg)](https://x.com/monadfork)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA.svg)]()
+<!-- LINK BADGES -->
+[![Website](https://img.shields.io/badge/Website-monadfork.com-8C65FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://monadfork.com)
+[![X (Twitter)](https://img.shields.io/badge/X-Follow%20@monadfork-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/monadfork)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 [Manifesto](#manifesto) • [Architecture](#architecture) • [Getting Started](#getting-started) • [Contributing](#contributing)
 
