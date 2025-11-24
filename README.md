@@ -1,6 +1,6 @@
 <div align="center">
 
-![Monad Fork Banner](<img width="1728" height="595" alt="image" src="https://github.com/user-attachments/assets/5c33fa6e-98ef-4afe-b728-85976f980eeb" />)
+![Monad Fork Banner](https://cdn.xoa.me/uploads/d1c36dd0-f693-4e99-8eef-752da98039f9.png)
 
 # Monad Fork
 
